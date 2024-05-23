@@ -1,0 +1,83 @@
+.caja{
+    width: 150px;
+    display:flex;
+    flex-direction: row;
+    border:1px solid black;
+   
+}
+article{
+    height:100px;
+    width: 150%;
+    background:yellow;
+   
+   
+}
+.extremos{
+    background:black;
+    
+}
+.extremos1{
+    background:red;
+    
+}
+
+
+.bandera{
+    width:150px;
+    display:flex;
+    flex-direction: row;
+    border:1px solid black;
+   
+}
+article1{
+    height:100px;
+    width: 50%;
+    background: white;
+   
+   
+}
+.extremos2{
+    background:blue;
+    
+ 
+}
+
+.extremos3{
+    background:red;
+}
+
+
+
+.banderaf{
+    width:150px;
+    display:flex;
+    flex-direction: row;
+    border:1px solid black;
+   
+}
+article2{
+    height:100px;
+    width: 150%;
+    image
+    
+   
+   
+}
+.extremos11{
+    background:rgb(101, 177, 240) ;
+    
+ 
+}
+.extremos12{
+    background:rgb(101, 177, 240) ;
+    
+ 
+}
+
+
+
+
+
+
+
+
