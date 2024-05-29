@@ -1,0 +1,24 @@
+.contenedor{
+    background: rgb(101, 173, 173);
+    width: 100%;
+    height: 600px;
+    display: flex;
+    padding-left: 15px;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    gap:10px 5px
+
+}
+p{
+    background: white;
+    width: 20%;
+    padding-top: 10px;
+    height: 100px;
+    text-align: center;
+    font-size: 28px;
+    margin: 5px;
+    border-radius: 100px;
+}
